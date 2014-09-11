@@ -1,0 +1,75 @@
+body {
+  background-color: #fdf6e3;
+}
+
+header {
+  fontSize: 2em;
+}
+
+footer {
+  fontSize: 2em;
+}
+
+nav > ul {
+  font-family: sans-serif;
+}
+
+img#logo {
+  border: 2px solid #d04b16;
+}
+
+div.wrapper {
+  background-color: #eee8d5;
+}
+
+h2#contents {
+  color: #93a1a1;
+}
+
+h2#favs {
+  color: #93a1a1;
+}
+
+h2#facts {
+  color: #93a1a1;
+}
+
+h2#types {
+  color: #93a1a1;
+}
+
+div > .dfn {
+  background-color: #b58900;
+}
+
+div > .dfn > strong {
+  color: #fff;
+}
+
+html mark {
+  background-color: #719e07;
+}
+
+a[rel="external"] {
+  background-color: #2694d8;
+} 
+
+ol > li:first-child {
+  color: #719e47;
+}
+
+ol > li:last-child {
+  color: #2aa198;
+}
+
+ul.types > li:nth-child(odd) {
+  background-color: #657ba3;
+}
+
+ul.types > li:nth-child(even) {
+  background-color: #586e75;
+}
+
+ul.types > li:nth-child(3n) {
+  background-color: #d04b16;
+}
